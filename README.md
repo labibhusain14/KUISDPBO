@@ -9,7 +9,8 @@
 
 ## *Desain Program*
 Dalam kode program ini dibuat dengan 3 kelas utama,yaitu :
-
+subclass -> kelas anak
+superclass -> kelas ortu
 1. Class Human
 
 Memiliki 3 atribut pada masing-masing bahasa selain PHP,yaitu nama,nik,gender dan untuk tambahan pada bahasa Php berupa atribut image.Kelas Human merupakan super / base class.
